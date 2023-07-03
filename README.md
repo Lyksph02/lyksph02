@@ -3,7 +3,7 @@
     <b>Welcome to my GitHub page!</b><br><br>
 <h1 align="center">Hi 👋, I'm Lyks</h1>
 <h3 align="center">Currently learning new things in the world of Web Development.</h3>
-<img align ="right" alt="soMeWhenCoding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
+<img align ="center" alt="soMeWhenCoding" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyksph02&label=Profile%20views&color=0e75b6&style=flat" alt="lyksph02" /> </p>
 
