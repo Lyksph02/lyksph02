@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Lyks</h1>
 <h3 align="center">Currently learning new things in the world of Web Development.</h3>
 <img align ="right" alt="soMeWhenCoding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyksph02&label=Profile%20views&color=0e75b6&style=flat" alt="lyksph02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyksph02" alt="lyksph02" /></a> </p>
-
+-->
 - ⚡ Fun fact **Ms. know it all! HAHA**
 
 <h3 align="left">Connect with me:</h3>
