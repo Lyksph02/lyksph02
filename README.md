@@ -1,7 +1,7 @@
 <h1 align="center">皆さん、こんにちは! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
-<h1 align="center">Hi 👋, I'm Lyks</h1>
+<h1 align="center">Hi 👋, I'm Lyks!</h1>
 <h3 align="center">Currently learning new things in the world of Web Development.</h3>
 <img align ="right" alt="soMeWhenCoding" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 - ⚡ Fun fact **Ms. know it all! HAHA**
